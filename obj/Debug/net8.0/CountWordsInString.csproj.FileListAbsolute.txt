@@ -1,0 +1,14 @@
+C:\Personal project\RandomQuestion\CountWordsInString\bin\Debug\net8.0\CountWordsInString.exe
+C:\Personal project\RandomQuestion\CountWordsInString\bin\Debug\net8.0\CountWordsInString.deps.json
+C:\Personal project\RandomQuestion\CountWordsInString\bin\Debug\net8.0\CountWordsInString.runtimeconfig.json
+C:\Personal project\RandomQuestion\CountWordsInString\bin\Debug\net8.0\CountWordsInString.dll
+C:\Personal project\RandomQuestion\CountWordsInString\bin\Debug\net8.0\CountWordsInString.pdb
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\CountWordsInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\CountWordsInString.AssemblyInfoInputs.cache
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\CountWordsInString.AssemblyInfo.cs
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\CountWordsInString.csproj.CoreCompileInputs.cache
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\CountWordsInString.dll
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\refint\CountWordsInString.dll
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\CountWordsInString.pdb
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\CountWordsInString.genruntimeconfig.cache
+C:\Personal project\RandomQuestion\CountWordsInString\obj\Debug\net8.0\ref\CountWordsInString.dll
